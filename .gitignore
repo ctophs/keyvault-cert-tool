@@ -1,0 +1,6 @@
+# Compiled binary
+/keyvault-cert-tool
+
+# Test artifacts
+*.test
+*.out
